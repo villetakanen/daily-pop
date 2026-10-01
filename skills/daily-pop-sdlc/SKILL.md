@@ -9,7 +9,7 @@ Find one small, resolvable mismatch or improvement across product, design, engin
 
 ## Discover through available lenses
 
-Spend roughly five minutes on read-only discovery. This is a discovery budget, not a mandatory delay or a delivery-size limit. Start with repository instructions and current task context. Use a profile identified by the user or project; otherwise optionally look for `DAILY_POP.md` at the project root. Use only sources and preferences the project actually has.
+Read the project instructions, the entry points, recent history, and whatever those point to. Stop once one candidate's premise is confirmed against evidence, or once the obvious sources are exhausted. This is a discovery budget, not a mandatory delay or a delivery-size limit. Discovery is read-only: no files change, and running existing tests or scripts counts as discovery. Start with repository instructions and current task context. Use a profile identified by the user or project; otherwise optionally look for `DAILY_POP.md` at the project root. Use only sources and preferences the project actually has.
 
 Possible lenses include:
 
@@ -26,7 +26,7 @@ If structured sources are missing or inaccessible, use code, comments, tests, hi
 
 Read an existing ledger identified by the project, or optionally `POP_LEDGER.md` at the root, to avoid repetition and learn what the user finds worthwhile. Explicit user intent and repository evidence outrank it. Revisit a resolved or declined question only when relevant evidence changes.
 
-Choose one real, interesting, singular, actionable, proportionate, non-forced question. Cite concrete paths and lines or accessible source links, distinguish observations from inferences, and surface uncertainty that affects the decision. Optimise for “Was this worth interrupting my morning for?” rather than severity or finding counts. Keep other candidates internal. Do not recast emergencies, major incidents, or sprawling redesigns as Pops. If nothing meets the bar, return exactly: “No Pop worth interrupting you for today.”
+Choose one real, interesting, singular, actionable, proportionate, non-forced question. Cite concrete paths and lines or accessible source links, distinguish observations from inferences, and surface uncertainty that affects the decision. Optimise for “Was this worth interrupting my morning for?” rather than severity or finding counts. Keep other candidates internal. Do not recast emergencies, major incidents, or sprawling redesigns as Pops. If you would not be mildly glad to be asked this over coffee, it does not meet the bar. If nothing meets the bar, return exactly: “No Pop worth interrupting you for today.”
 
 ## Ask
 
@@ -46,7 +46,7 @@ Use the same interaction contract as the core skill:
 What should we do?
 ```
 
-One delivery means one intention, one understandable outcome, one verification story, and one reversible change set. File count, changed lines, or elapsed time do not define suitability. A repository-wide mechanical migration can qualify; a decision or clarification can also be complete. Do not turn connected evidence into a bundle of independent tasks.
+One delivery means one intention, one understandable outcome, one verification story, and one reversible change set. File count, changed lines, or elapsed time do not define suitability. A repository-wide mechanical migration can qualify; a decision or clarification can also be complete. When the question is a decision between two readings, state the delivery for each; the user's answer selects one. Do not turn connected evidence into a bundle of independent tasks.
 
 ## Respond and deliver
 

@@ -9,7 +9,7 @@ Find one real, useful question in the work at hand, then help deliver one cohere
 
 ## Discover
 
-Spend roughly five minutes surveying available project context. This is a discovery budget, not a mandatory delay or a limit on later delivery. Use read-only exploration until the user authorises action.
+Read the project instructions, the entry points, recent history, and whatever those point to. Stop once one candidate's premise is confirmed against evidence, or once the obvious sources are exhausted. This is a discovery budget, not a mandatory delay or a limit on later delivery. Use read-only exploration until the user authorises action: read-only means no files change, and running existing tests or scripts counts as discovery.
 
 Start with repository instructions, current task context, relevant files, and Git history when available. Follow promising evidence rather than a mandatory checklist. Code, comments, tests, naming, dead files, dependencies, duplicated behaviour, unclear intent, and stale documentation can all offer questions. Do not require tickets, specs, ADRs, a design system, CI, or a vendor. Missing sources are limitations, not a reason to invent findings or set up infrastructure.
 
@@ -17,7 +17,7 @@ If a project profile or Pop Ledger is already identified in context, read it whe
 
 Select one question that is real, interesting, singular, actionable, proportionate, and non-forced. Confirm its premise against concrete evidence and intentional exceptions. Separate observation from inference, cite paths and lines or accessible source links, and disclose uncertainty that affects the question. Do not imply inaccessible sources were checked.
 
-Keep alternate candidates internal. Do not rank findings by severity or fill an output quota. Emergencies and major incidents belong in their existing response process, not a manufactured Pop delivery. A sprawling redesign is not a morning question. If no candidate meets the bar, return exactly: “No Pop worth interrupting you for today.”
+Keep alternate candidates internal. Do not rank findings by severity or fill an output quota. Emergencies and major incidents belong in their existing response process, not a manufactured Pop delivery. A sprawling redesign is not a morning question. If you would not be mildly glad to be asked this over coffee, it does not meet the bar. If no candidate meets the bar, return exactly: “No Pop worth interrupting you for today.”
 
 ## Ask
 
@@ -37,7 +37,7 @@ Use this interaction contract:
 What should we do?
 ```
 
-A valid delivery has one intention, one understandable outcome, one verification story, and one reversible change set. Do not reject it merely for touching many files or taking more than a few minutes. A mechanical repository-wide migration may qualify when its rationale, references, verification, and rollback are coherent. A clarification or decision may also be the whole outcome.
+A valid delivery has one intention, one understandable outcome, one verification story, and one reversible change set. Do not reject it merely for touching many files or taking more than a few minutes. A mechanical repository-wide migration may qualify when its rationale, references, verification, and rollback are coherent. A clarification or decision may also be the whole outcome. When the question is a decision between two readings, state the delivery for each; the user's answer selects one.
 
 ## Respond and deliver
 
