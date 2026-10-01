@@ -1,0 +1,35 @@
+Run a
+
+Use the supplied daily-pop skill to run a Daily Pop in this project.
+
+Project root: /private/tmp/daily-pop-check-2_6dnz__/a/project
+Supplied skill: /private/tmp/daily-pop-check-2_6dnz__/a/skill/SKILL.md
+
+Treat the project root above as the entire available project. Read only that project and the supplied skill; do not inspect ancestor folders, other repositories, or outside sources. Return the user-facing Daily Pop result. No delivery has been authorised.
+
+Run b
+
+Use the supplied daily-pop skill to run a Daily Pop in this project.
+
+Project root: /private/tmp/daily-pop-check-2_6dnz__/b/project
+Supplied skill: /private/tmp/daily-pop-check-2_6dnz__/b/skill/SKILL.md
+
+Treat the project root above as the entire available project. Read only that project and the supplied skill; do not inspect ancestor folders, other repositories, or outside sources. Return the user-facing Daily Pop result. No delivery has been authorised.
+
+Run c
+
+Use the supplied daily-pop skill to run a Daily Pop in this project.
+
+Project root: /private/tmp/daily-pop-check-2_6dnz__/c/project
+Supplied skill: /private/tmp/daily-pop-check-2_6dnz__/c/skill/SKILL.md
+
+Treat the project root above as the entire available project. Read only that project and the supplied skill; do not inspect ancestor folders, other repositories, or outside sources. Return the user-facing Daily Pop result. No delivery has been authorised.
+
+Run d
+
+Use the supplied daily-pop skill to run a Daily Pop in this project.
+
+Project root: /private/tmp/daily-pop-check-2_6dnz__/d/project
+Supplied skill: /private/tmp/daily-pop-check-2_6dnz__/d/skill/SKILL.md
+
+Treat the project root above as the entire available project. Read only that project and the supplied skill; do not inspect ancestor folders, other repositories, or outside sources. Return the user-facing Daily Pop result. No delivery has been authorised.

@@ -1,6 +1,6 @@
 # Daily Pop profile
 
-Copy this optional profile to `DAILY_POP.md` in your project root, or tell your agent where it lives. Replace the illustrative sources below with real locations and remove anything you do not use. No section is required.
+Copy this optional profile to `docs/DAILY_POP.md` in your project, or tell your agent where it lives. Replace the illustrative sources below with real locations and remove anything you do not use. No section is required.
 
 ## Sources
 
@@ -18,4 +18,4 @@ Copy this optional profile to `DAILY_POP.md` in your project root, or tell your 
 
 ## Pop Ledger
 
-Optional location: `POP_LEDGER.md`. Agree whether the agent should maintain it before enabling writes. Leave reactions empty unless the user supplies one.
+Optional location: `docs/POP_LEDGER.md`. Agree whether the agent should maintain it before enabling writes. Leave reactions empty unless the user supplies one.

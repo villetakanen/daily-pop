@@ -13,7 +13,7 @@ Read the project instructions, the entry points, recent history, and whatever th
 
 Start with repository instructions, current task context, relevant files, and Git history when available. Follow promising evidence rather than a mandatory checklist. Code, comments, tests, naming, dead files, dependencies, duplicated behaviour, unclear intent, and stale documentation can all offer questions. Do not require tickets, specs, ADRs, a design system, CI, or a vendor. Missing sources are limitations, not a reason to invent findings or set up infrastructure.
 
-If a project profile or Pop Ledger is already identified in context, read it when useful. Otherwise, optionally look for `DAILY_POP.md` and `POP_LEDGER.md` at the project root. Neither is required. Respect local preferences without treating the ledger as authority; explicit user intent and repository evidence outrank it. Avoid repeating resolved or declined Pops unless relevant evidence changes.
+If a project profile or Pop Ledger is already identified in context, read it when useful. Otherwise, optionally look for `docs/DAILY_POP.md` and `docs/POP_LEDGER.md`. Neither is required. Respect local preferences without treating the ledger as authority; explicit user intent and repository evidence outrank it. Avoid repeating resolved or declined Pops unless relevant evidence changes.
 
 Select one question that is real, interesting, singular, actionable, proportionate, and non-forced. Confirm its premise against concrete evidence and intentional exceptions. Separate observation from inference, cite paths and lines or accessible source links, and disclose uncertainty that affects the question. Do not imply inaccessible sources were checked.
 
@@ -37,7 +37,7 @@ Use this interaction contract:
 What should we do?
 ```
 
-A valid delivery has one intention, one understandable outcome, one verification story, and one reversible change set. Do not reject it merely for touching many files or taking more than a few minutes. A mechanical repository-wide migration may qualify when its rationale, references, verification, and rollback are coherent. A clarification or decision may also be the whole outcome. When the question is a decision between two readings, state the delivery for each; the user's answer selects one.
+A valid delivery has one intention, one understandable outcome, one verification story, and one reversible change set. Do not reject it merely for touching many files or taking more than a few minutes. A mechanical repository-wide migration may qualify when its rationale, references, verification, and rollback are coherent. A clarification or decision may also be the whole outcome. When the question is a decision between two readings, state the delivery for each; the user's answer selects one. For a mismatch between documentation and behaviour, ask which should change and describe both alternatives, unless an explicit decision in the available context rules one out.
 
 ## Respond and deliver
 

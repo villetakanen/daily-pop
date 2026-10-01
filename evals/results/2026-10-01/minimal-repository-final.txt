@@ -1,0 +1,11 @@
+## Daily Pop — Should whitespace-only names greet “friend”?
+
+**What I found:** [README.md:3](/private/tmp/daily-pop-check-2_6dnz__/c/project/README.md:3) promises “friend” when a name is empty after trimming. [greeting.py:2](/private/tmp/daily-pop-check-2_6dnz__/c/project/greeting.py:2) checks emptiness before trimming. Running the included example prints `Hello, !`.
+
+**Why this is worth attention:** The project’s own example contradicts its documented behavior.
+
+**Possible delivery:** Either adjust the function so whitespace-only names greet “friend”, or update the README to describe the current behavior. Ordinary names remain unchanged; reverting the chosen edit restores the original.
+
+**Verification:** Check ordinary, padded, empty, and whitespace-only names against the chosen behavior, then rerun the example.
+
+What should we do?
