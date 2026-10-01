@@ -12,7 +12,7 @@ Run it from this directory with `python3 greeting.py`. It currently prints `Hell
 
 **User:** /pop
 
-### Daily Pop — Should a whitespace-only name greet “friend”?
+## Daily Pop — Should a whitespace-only name greet “friend”?
 
 **What I found:** The project promise above says an empty name after trimming should greet “friend”. In `greeting.py`, `greet` checks whether the original name is empty before trimming it, so three spaces produce `Hello, !`.
 

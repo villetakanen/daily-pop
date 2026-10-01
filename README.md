@@ -54,18 +54,18 @@ You can also try it without installation: give your agent the chosen `SKILL.md` 
 ```md
 ## Daily Pop — [one clear question]
 
-**What I found:** [brief explanation with evidence references]
+**What I found:** [brief, evidence-backed explanation]
 
-**Why this is worth attention:** [why it improves understanding or integrity]
+**Why this is worth attention:** [why this improves project understanding or integrity]
 
-**Possible delivery:** [what changes, what stays unchanged, and how to revert]
+**Possible delivery:** [one coherent change; what changes, what does not, and how to revert]
 
 **Verification:** [how we will know the result is correct]
 
 What should we do?
 ```
 
-Answer naturally: “do it,” “close it,” “leave it,” “that is intentional,” “make a follow-up,” or “tell me more.” An explanation or deferral is not permission to implement. A clarified decision can be the complete outcome.
+Answer naturally: “do it,” “leave it,” “that is intentional,” “make a follow-up,” or “tell me more.” An explanation or deferral is not permission to implement. A clarified decision can be the complete outcome.
 
 The question must be real, interesting, singular, actionable, proportionate, and non-forced. Daily Pop optimises for **“Was this worth interrupting my morning for?”**, not severity scores or finding counts.
 
