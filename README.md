@@ -16,6 +16,14 @@ Agent: [makes the authorised correction and verifies it]
 
 A good Pop wakes up your project intuition and leaves the project better than yesterday. If nothing meets the bar, the right answer is: **“No Pop worth interrupting you for today.”**
 
+## Why this works
+
+One question gives you something specific to think about at the start of the day. The agent has already gathered the evidence, so you can spend your attention on what it means for the project. A familiar place in your morning—while getting coffee, for example—makes room for that reflection before other work takes over.
+
+You bring context the agent may be missing. Its question gives you a chance to explain an intentional exception, reconsider a decision, or agree to a change. You choose what happens next, including leaving things as they are. The agent can also return without a question when it finds nothing worth your attention; there is no daily quota to fill.
+
+If you keep a Pop Ledger, your responses give future discovery passes something to learn from. A record of what you found useful or tedious helps the agent choose questions that suit you and the project, and avoid repeating settled discussions. That feedback is how the ritual can improve with use: the agent can consult it the next time it explores.
+
 ## Choose your skill
 
 | Skill | Use it when | Promise |
@@ -29,11 +37,11 @@ These are sibling skills with the same interaction contract. The SDLC version ad
 
 This repository distributes plain Markdown agent skills. There is no application, service, or runtime to install.
 
-1. Download a skill ZIP from the [v0.1.0 release](https://github.com/villetakanen/daily-pop/releases/tag/v0.1.0), or clone the repository with `git clone https://github.com/villetakanen/daily-pop.git`.
+1. Download a skill ZIP from the [v0.2.0 release](https://github.com/villetakanen/daily-pop/releases/tag/v0.2.0), or clone the repository with `git clone https://github.com/villetakanen/daily-pop.git`.
 2. Choose `skills/daily-pop/` or `skills/daily-pop-sdlc/`. Install that entire folder in the skill location supported by your agent host, following that host’s instructions. Keep the folder name and `SKILL.md` intact.
 3. Open the project you want to explore and invoke the chosen skill by name.
 
-Each release ZIP contains one skill folder and its MIT license. When using a ZIP, install the extracted `daily-pop/` or `daily-pop-sdlc/` folder. To pin a cloned checkout to this release, run `git checkout v0.1.0` inside it.
+Each release ZIP contains one skill folder and its MIT license. When using a ZIP, install the extracted `daily-pop/` or `daily-pop-sdlc/` folder. To pin a cloned checkout to this release, run `git checkout v0.2.0` inside it.
 
 You can also try it without installation: give your agent the chosen `SKILL.md` and ask it to use those instructions for a Daily Pop in your project.
 
