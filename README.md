@@ -97,7 +97,7 @@ Daily planning, a status report, an AI-generated backlog, a lint report, or manu
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Changes should improve the quality of the question or the clarity of delivery while keeping both skills compatible and useful in small repositories.
+Changes should improve the quality of the question or the clarity of delivery while keeping both skills compatible and useful in small repositories.
 
 ## License
 
